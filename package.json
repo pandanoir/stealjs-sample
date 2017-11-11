@@ -1,0 +1,20 @@
+{
+  "name": "stealjs-sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "steal-tools",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naoto Ikuno <moon_in_france@yahoo.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "steal": "1.5.18",
+    "steal-tools": "1.9.1"
+  },
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
